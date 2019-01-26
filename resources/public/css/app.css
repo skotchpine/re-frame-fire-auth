@@ -1,0 +1,15 @@
+.vw-100 {
+	width: 100vw;
+}
+
+.pointer:hover {
+	cursor: pointer;
+}
+
+.word-wrap {
+  word-break: break-all;
+}
+
+.bg-really-dark-gray {
+  background-color: #222;
+}
